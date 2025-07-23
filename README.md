@@ -82,7 +82,7 @@ You are free to share, but must provide attribution, cannot use commercially, an
 - [Swara Patel](#)
 - [Kanish Shah](#)
 - [Samrat Patel](#)
-- [Manan Shah](mailto:manan.shah@spt.pdpu.ac.in)
+- [Manan Shah]
 - [Samir Patel](#)
 
 ---
@@ -97,5 +97,5 @@ If you use this work, please cite our paper:
 
 ## 📬 Contact
 
-For collaboration or questions, feel free to reach out to [manan.shah@spt.pdpu.ac.in](mailto:manan.shah@spt.pdpu.ac.in) or open an issue in this repository.
+For collaboration or questions, feel free to reach out to [kedesai@ucsd.edu](mailto:kedesai@ucsd.edu) or open an issue in this repository.
 
